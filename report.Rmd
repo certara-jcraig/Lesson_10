@@ -54,12 +54,6 @@ knitr::include_graphics('./plots/time_concentration_by_subject.png')
 knitr::include_graphics('./plots/time_concentration_facet_dose_group.png')
 ```
 
-### Time Concentration by Subject and WT Cut
-
-```{r time_concentration_subject_wt_cut, out.width='50%'}
-knitr::include_graphics('./plots/time_concentration_by_subject_by_wt_cut.png')
-```
-
 ---
 
 ## Model Compartment Scenarios
